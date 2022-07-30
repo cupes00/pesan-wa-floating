@@ -17,7 +17,7 @@ Released On: 10, Aug 2019
 	position: fixed;
 	width: 50px;
 	height: 100%;
-	bottom: 30px;
+	bottom: 10px;
 	right: 20px;
 	border: 1px solid #fff;
 	border-radius: 50px;
@@ -26,7 +26,7 @@ Released On: 10, Aug 2019
 	cursor: pointer;
 }
 .wc-style7 .wc-button:hover{
-	box-shadow: 0px 0px 20px rgba(12, 12, 12, 0.5);
+	box-shadow: 0px 0px 10px rgba(12, 12, 12, 0.5);
 }
 .wc-style7 .wc-button i{
 	margin-top: 13px;
