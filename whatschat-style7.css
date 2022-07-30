@@ -17,7 +17,7 @@ Released On: 10, Aug 2019
 	position: fixed;
 	width: 50px;
 	height: 50px;
-	bottom: 0px;
+	bottom: 30px;
 	right: 20px;
 	border: 1px solid #fff;
 	border-radius: 50px;
@@ -38,7 +38,7 @@ Released On: 10, Aug 2019
   	display: none;
   	position: fixed;
   	width: 300px;
-  	bottom: 300px;
+  	bottom: 85px;
 	right: 30px;
 	border-radius: 10px;
   	box-shadow: 0 3px 6px #b4b4b4;
@@ -89,7 +89,7 @@ Released On: 10, Aug 2019
   	display: flex;
   	flex-direction: column;
     position: relative;
-  	padding: 16px 20px 10px 10px;
+  	padding: 16px 20px 20px 10px;
   	background-color: rgb(230, 221, 212);
 }
 .wc-style7 .wc-body::before{
