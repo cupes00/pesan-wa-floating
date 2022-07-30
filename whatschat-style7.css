@@ -26,7 +26,7 @@ Released On: 10, Aug 2019
 	cursor: pointer;
 }
 .wc-style7 .wc-button:hover{
-	box-shadow: 0px 0px 10px rgba(12, 12, 12, 0.5);
+	box-shadow: 0px 0px 20px rgba(12, 12, 12, 0.5);
 }
 .wc-style7 .wc-button i{
 	margin-top: 13px;
@@ -89,7 +89,7 @@ Released On: 10, Aug 2019
   	display: flex;
   	flex-direction: column;
     position: relative;
-  	padding: 16px 20px 20px 10px;
+  	padding: 16px 20px 10px 10px;
   	background-color: rgb(230, 221, 212);
 }
 .wc-style7 .wc-body::before{
